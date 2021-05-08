@@ -1,0 +1,14 @@
+h1 {
+    color: brown;
+}
+
+*{
+    border: rgba(8, 181, 250, 0.164);
+}
+
+
+.header{
+    background-color: chartreuse;
+    display:flex ;
+    justify-content:center
+}
